@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I'm Abhinav K. Nair, an undergraduate Physics student currently pursuing B. Sc. (Honours) Physics. I have a great enthusiasm for physics, and I'm particularly interested in Quantum mechanics and Astrophysics. I have experience in computational quantum simulations, which include those of Schrödinger equation, Gross-Pitaevskii equation, and solitons. I have served as the Research Head of my department's Physics Society.
+I'm Abhinav K. Nair, an undergraduate Physics student currently pursuing B. Sc. (Honours) Physics. I have a great enthusiasm for physics, and I'm particularly interested in Quantum mechanics and Astrophysics. I have experience in computational quantum simulations, which include those of Schrödinger equation, Gross-Pitaevskii equation, and solitons. I have served as the Research Head of my department's Physics Society.
 
 ---
 
