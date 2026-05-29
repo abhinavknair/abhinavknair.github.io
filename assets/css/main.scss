@@ -1,17 +1,10 @@
 ---
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
 @import
   "vendor/breakpoint/breakpoint",
   "themes",
-  "theme/air", /* Hardcoded 'air' directly to fix the template bug */
+  "theme/air",
   "include/mixins",
   "vendor/susy/susy",
   "layout/reset",
@@ -34,17 +27,13 @@
   "vendor/font-awesome/brands"
 ;
 
-/* ==========================================================================
-   Custom Modern Overrides 
-   ========================================================================== */
+/* Custom Modern Overrides */
 
-/* 1. Modern Sans-Serif Font Stack */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
   color: #2d3748 !important;
 }
 
-/* 2. Sleek Headings */
 h1, h2, h3, h4 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
   font-weight: 700 !important;
@@ -52,13 +41,11 @@ h1, h2, h3, h4 {
   color: #1a202c !important;
 }
 
-/* 3. Rounded Avatar */
 .author__avatar img {
   border-radius: 50% !important;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
 }
 
-/* 4. Rounded Utility Buttons */
 .btn {
   border-radius: 20px !important;
   text-transform: none !important;
