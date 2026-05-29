@@ -8,71 +8,61 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+---
+
 @import
-    "vendor/breakpoint/breakpoint",
-
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
-    "include/mixins",
-    "vendor/susy/susy",
-
-    "layout/reset",
-    "layout/base",
-
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-
-    "layout/forms",
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
+  "vendor/breakpoint/breakpoint",
+  "themes",
+  "theme/air", /* Hardcoded 'air' directly to fix the template bug */
+  "include/mixins",
+  "vendor/susy/susy",
+  "layout/reset",
+  "layout/base",
+  "include/utilities",
+  "layout/tables",
+  "layout/buttons",
+  "layout/notices",
+  "layout/masthead",
+  "layout/navigation",
+  "layout/footer",
+  "syntax",
+  "layout/forms",
+  "layout/page",
+  "layout/archive",
+  "layout/sidebar",
+  "layout/json_cv",
+  "vendor/font-awesome/fontawesome",
+  "vendor/font-awesome/solid",
+  "vendor/font-awesome/brands"
 ;
 
-/* Custom Modern Overrides */
+/* ==========================================================================
+   Custom Modern Overrides 
+   ========================================================================== */
 
-/* 1. Modern Sans-Serif Font Stack (Inter/System UI) */
+/* 1. Modern Sans-Serif Font Stack */
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-  color: #2d3748; /* Softer, modern dark grey instead of harsh black */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  color: #2d3748 !important;
 }
 
-/* 2. Style Headings to look sleek and clean */
+/* 2. Sleek Headings */
 h1, h2, h3, h4 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  font-weight: 700;
-  letter-spacing: -0.02em; /* Tighter letter-spacing for a premium look */
-  color: #1a202c;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em !important;
+  color: #1a202c !important;
 }
 
-/* 3. Make the Sidebar Avatar Round instead of square */
+/* 3. Rounded Avatar */
 .author__avatar img {
-  border-radius: 50% !important; 
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); /* Soft shadow */
+  border-radius: 50% !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
 }
 
-/* 4. Round the utility buttons (like the Follow button) */
+/* 4. Rounded Utility Buttons */
 .btn {
   border-radius: 20px !important;
-  text-transform: none !important; /* Removes dated all-caps text */
-  font-weight: 600;
-  padding: 0.5em 1.5em !important;
-}
-
-/* 5. Smooth Transition Animations */
-a, .btn {
-  transition: all 0.2s ease-in-out !important;
+  text-transform: none !important;
+  font-weight: 600 !important;
 }
