@@ -20,7 +20,7 @@ Conducted theoretical and computational study on the collapse of Bose-Einstein c
 ### Bright Soliton CNOT Gates
 Investigated the effectiveness of three-body interaction as a good parameter in controlling the properties of CNOT gates that can be realised using bright solitons in a BEC.
 
-## Dissemination 
+### Dissemination 
 Presented these research findings at two international conferences, with the first study communicated to the Elsevier NIMB Proceedings journal for review.
 
 ---
