@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Physics (Honours), University of Delhi, 2022-2026
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Head (Oct 2024 - Oct 2025)
+  * Physica (Physics Society of Deshbandhu College)
+  * Duties included: Conducted classes on quantum computing; organized research paper presentations; organized Python programming sessions.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mentor (Jan 2025)
+  * BASF Kids' Lab
+  * Duties included: Mentored school children from underprivileged backgrounds on experiments related to climate change and sustainable development.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Projects
+======
+* Effect of three-body interaction for the realization of precisely engineered CNOT gates using bright solitons (2026)
+* Effect of higher-order interaction terms on the collapse of a Bose-Einstein condensate(2025)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python programming 
+* Quantum computing fundamentals 
+* LaTeX
+* Numerical methods
+* Statistical analysis 
+* Pencil drawing 
+* Teaching
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer (Jun 2020 - Mar 2022)
+  * National Service Scheme (NSS)
+  * Duties included: Organized fundraising activities for charity; engaged in community health initiatives during Covid-19 pandemic; guided in group farming and other environmental sustainability activities.
