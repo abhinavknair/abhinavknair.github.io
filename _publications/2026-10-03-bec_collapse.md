@@ -1,4 +1,5 @@
 ---
+mathjax: true
 title: "Influence of interactions beyond two-body interaction on the collapse of Bose–Einstein condensate in the attractive regime"
 collection: publications
 category: manuscripts
