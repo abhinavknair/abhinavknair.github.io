@@ -11,17 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics (Honours), University of Delhi, 2022-2026
+* M.Sc. in Physics, Dept. of Physics & Astrophysics, University of Delhi, 2026-2027
+* B.Sc. in Physics (Honours), Deshbandhu College, University of Delhi, 2022-2026
 
-Experience
+Academic Experience
 ======
-* Research Head (Oct 2024 - Oct 2025)
-  * Physica (Physics Society of Deshbandhu College)
-  * Duties included: Conducted classes on quantum computing; organized research paper presentations; organized Python programming sessions
-
-* Mentor (Jan 2025)
-  * BASF Kids' Lab
-  * Duties included: Mentored school children from underprivileged backgrounds on experiments related to climate change and sustainable development
+* Head of Research (Oct 2024 - Oct 2025)
+  * Physica (The Physics Society of Deshbandhu College)
+  * Taught classes on quantum mechanics; organized the inter-college research paper presentation competition; conducted sessions on Python programming.
 
 Projects
 ======
@@ -30,16 +27,20 @@ Projects
 
 Skills
 ======
-* Python programming 
+* Python programming
+* Statistical analysis 
 * Quantum computing fundamentals 
 * LaTeX
 * Numerical methods
-* Statistical analysis 
 * Pencil drawing 
 * Teaching
 
-Service and leadership
+Service and Outreach
 ======
+* Mentor (Jan 2025)
+  * BASF Kids' Lab
+  * Guided underprivileged school children through interactive sustainability experiments to foster early engagement with science and environmental awareness.
+
 * Volunteer (Jun 2020 - Mar 2022)
   * National Service Scheme (NSS)
-  * Duties included: Organized fundraising activities for charity; engaged in community health initiatives during Covid-19 pandemic; guided in group farming and other activities related to environmental sustainability
+  * Organized fundraising activities for charity; engaged in community health initiatives during the Covid-19 pandemic; guided in group farming and other activities to promote environmental sustainability.
