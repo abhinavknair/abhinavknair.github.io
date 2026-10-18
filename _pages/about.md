@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Abhinav K. Nair, a master's student of Physics at the University of Delhi. I truly care about physics and I always emphasize on understanding it from the fundamental level. I have experience in computational quantum simulations, including those of Schrödinger equation, Gross-Pitaevskii equation, and solitons. I have served as the Research Head of my department's Physics Society during my bachelor's.
-
-
-### Research interests:
+I'm Abhinav K. Nair, a master's student of Physics at the University of Delhi. As a great admirer of physics, I always emphasize on understanding it at a fundamental level. I have experience in computational quantum simulations involving the Schrödinger equation, Gross-Pitaevskii equation, and solitons.
+My areas of research interest include:
 * Quantum mechanics and quantum computing
 * General Relativity and Cosmology
 * Astrophysics
